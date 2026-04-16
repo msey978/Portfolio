@@ -1,4 +1,4 @@
-# kofi Boafo - Data Analysis Portfolio 
+# Momodou Sey Portfolio 
 
 ## About
 
